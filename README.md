@@ -113,9 +113,24 @@ names(extractedData)
 ### 
 #### Mag se puede reemplazar con magnitud
 ### 
-#### El carácter se puede reemplazar con frecuenciaf
+#### El carácter se puede reemplazar con frecuencia: f
 ### 
-#### El carácter se puede reemplazar con tiempot
+#### El carácter se puede reemplazar con tiempo: t
+
+
+##### When examining, we can say that the following acronyms can be replaced: extractedData
+###
+##### Acc can be replaced with accelerometer
+###
+##### Gyro can be replaced with Gyroscope
+###
+##### BodyBody can be replaced with the body
+###
+##### Mag can be replaced with magnitude
+###
+##### The character can be replaced frequently: f
+###
+##### The character can be replaced with time: t 
 
 
 
