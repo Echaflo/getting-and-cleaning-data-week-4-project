@@ -169,3 +169,63 @@ write.table(tidyData, file = "Tidy.txt", row.names = FALSE)
 
 
 
+
+
+## the information of the data dictionary is in the file / UCI HAR Dataset / readme.txt in the following lines this dictionary is reproduced ##
+## this work in a general way I only collect information about a work already done and that is described in the readme.txt file
+## so here only work is done in a practical way for an exercise of R language practices
+
+
+## generally 
+
+
+
+### la informacion del diccioanrio de datos esta en el archivo /UCI HAR Dataset/readme.txt  en las siguientes linea se reproduce ### este diccionario 
+###este trabajo de manera geneal solo recabo informacion de un trabajo ya hehco y que viene descrito en el rchivo readme.txt 
+###por lo que aqui solo se hace un trabajo de manera practica para un ejecicio de de practicas del lenguaje R
+
+
+### demanera general
+
+### For each record it is provided:
+####======================================
+
+####- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+####- Triaxial Angular velocity from the gyroscope. 
+####- A 561-feature vector with time and frequency domain variables. 
+####- Its activity label. 
+####- An identifier of the subject who carried out the experiment.
+
+####The dataset includes the following files:
+####=========================================
+
+####- 'README.txt'
+
+####- 'features_info.txt': Shows information about the variables used on the feature vector.
+
+####- 'features.txt': List of all features.
+
+####- 'activity_labels.txt': Links the class labels with their activity name.
+
+####- 'train/X_train.txt': Training set.
+
+####- 'train/y_train.txt': Training labels.
+
+####- 'test/X_test.txt': Test set.
+
+####- 'test/y_test.txt': Test labels.
+
+####The following files are available for the train and test data. Their descriptions are equivalent. 
+
+####- 'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
+####- 'train/Inertial Signals/total_acc_x_train.txt': The acceleration signal from the smartphone accelerometer X axis in standard ####gravity units 'g'. Every row shows a 128 element vector. The same description applies for the 'total_acc_x_train.txt' and ####'total_acc_z_train.txt' files for the Y and Z axis. 
+
+####- 'train/Inertial Signals/body_acc_x_train.txt': The body acceleration signal obtained by subtracting the gravity from the ####total acceleration. 
+
+####train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. ####The units are radians/second. 
+
+
+
+
+
