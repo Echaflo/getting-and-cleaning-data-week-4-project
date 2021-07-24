@@ -1,7 +1,7 @@
 ---
 title: "El R Markdown Getting and Cleaning Data Course Project"
 author: "ECHF"
-date: "2021"
+date: "20210724"
 ---
 
 ## las Bibliotecas utilizadas para trabajar con  tablas  y dataframes
